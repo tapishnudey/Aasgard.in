@@ -1,0 +1,9 @@
+html{
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-size: 25px;
+     position: fixed;
+    cursor: pointer;
+}
